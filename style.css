@@ -1,0 +1,43 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.featured{ height: 600px; width: 1300px;}
+
+
+.top-left{
+    width: 500px;
+}
+
+
+
+.top-left-logo{
+    width: 320px;
+    padding-top: 25px;
+}
+.top-left-shoe {
+    width: 500px;
+    padding-top: 50px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+.flagship-product-details {
+    padding-top: 130px;
+}
+
+.headline h1  {font-size: 50px;}
+.color{ color: tomato;}
+.color2nd{ color: darkslateblue;}
+
+h3 { text-align: justify ;}
+
+
+
+    
+
+
